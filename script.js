@@ -14,4 +14,6 @@ function truncateIt (word) {
     console.log(returnWord)
     }
 
+    truncateIt("printer");
+    truncateIt("visa");
     truncateIt("function") 
